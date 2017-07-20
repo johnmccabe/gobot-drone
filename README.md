@@ -1,3 +1,11 @@
+# Running
+Make sure you've cleared some space for the flight and any kids/pets are secured !
+```
+sudo go run drone.go Blaze_XXXXXXX
+```
+
+**Note** `sudo` is necessary on Linux, on OSX you should be fine without.
+
 # Pairing with BT (unsure if necessary)
 
 ```
